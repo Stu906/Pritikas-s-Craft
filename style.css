@@ -1,0 +1,224 @@
+body{
+    text-align: center;
+}
+#menu{
+    position: fixed;
+    background-color: gold;
+    cursor: pointer;
+    padding-right: 370px;
+    padding-left: 260px;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+.links{
+    float: left;
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 25px;
+    color: black !important;
+}
+a{
+    text-decoration: none;
+    color: darkblue;
+    text-shadow: 2px 2px gainsboro;
+}
+.links:hover{
+    color: darkblue;
+    font-size: 28px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+#line{
+    border-style: dotted;
+    margin-top: 240px;
+}
+#line2{
+    border-style: dotted;
+    margin-top: 30px;
+}
+.canicon{
+    height: 60px;
+    margin-bottom: -10px;
+}
+.image-section2{
+    display: flex;
+    justify-content: center;
+}
+.image-section2 img{
+    width: 200px;
+    height: 300px;
+}
+.section-style{
+    margin: 25px;
+}
+#photo{
+    width: 95%;
+    height: 700px;
+    margin-top: 50px;
+}
+#name{
+    color: white;
+    margin-top: -350;
+    margin-left: 600;
+    font-size: 50px;
+    font-family: 'Courgette', cursive;
+}
+#pre-name{
+    color: white;
+    margin-left: 600;
+    font-size: 45px;
+    font-family: 'Courgette', cursive;
+}
+#background{
+   width: 95%; 
+    height: 700px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 30px;
+}
+#craft-line{
+    margin-top: -360px;
+    font-size: 30px;
+}
+#imfo_para{
+    padding: 20px;
+    margin-top: -440px;
+    font-size: 20px;
+    font-weight: bold;
+}
+#head{
+    margin-top: 330px;
+}
+#img_back{
+    width: 100%;
+    height: 500;
+}
+#craft-head{
+    margin-top: 100px;
+}
+.candle-section{
+    display: flex;
+    justify-content: center; 
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.section-style{
+    text-align: justify;
+}
+.candle-section img{
+    height: 200px;
+    border-style: solid;
+    border-width: medium;
+}
+.candle-section h1{
+    vertical-align: middle;
+    text-align: center;
+    padding: 150px;
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+}
+#candle{
+    padding-left: 30px;
+    padding-right: 9px;
+}
+.wp-section{
+    display: flex;
+    justify-content: center; 
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.section-style{
+    text-align: justify;
+}
+.wp-section img{
+    height: 200px;
+    border-style: solid;
+    border-width: medium;
+    width: 200px;
+}
+.wp-section h1{
+    vertical-align: middle;
+    text-align: center;
+    padding: 150px;
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+}
+#big-wp{
+   height: 400px;
+    width: 300px;
+}
+.albumb1{
+    width: 300px;
+}
+.album{
+    display: flex;
+    justify-content: center;
+}
+#pic1{
+    width: 500px;
+    padding-top: 150px;
+    vertical-align: middle;
+}
+.album h3{
+    padding-top: 250px;
+    font-size: 30px;
+}
+.album h2{
+    font-size: 30px;
+}
+#album{
+    font-size: 40px;
+}
+.fm-section{
+    display: flex;
+    justify-content: center; 
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.section-style{
+    text-align: justify;
+}
+.fm-section img{
+    height: 200px;
+    border-style: solid;
+    border-width: medium;
+    width: 200px;
+}
+.fm-section h1{
+    vertical-align: middle;
+    text-align: center;
+    padding: 150px;
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+}
+.b-section{
+    display: flex;
+    justify-content: center; 
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.section-style{
+    text-align: justify;
+}
+.b-section img{
+    height: 200px;
+    border-style: solid;
+    border-width: medium;
+    width: 200px;
+}
+.b-section h1{
+    vertical-align: middle;
+    text-align: center;
+    padding: 150px;
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+}
+.contact-1 img{
+    width: 20px;
+    padding-bottom: -500px;
+}
